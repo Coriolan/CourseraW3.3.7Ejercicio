@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Petagram</string>
+    <string name="img_content_description">Default content description</string>
+    <string name="nombre_mascota">Nombre</string>
+    <string name="rating_mascota">0</string>
+    <string name="actionview_recientes_titulo">Favoritos Recientes</string>
+</resources>
